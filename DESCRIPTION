@@ -1,0 +1,15 @@
+Package: ohwhaley
+Title: Summon a whale for a customisable pick-me-up
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Vyom",
+           family = "Versin",
+           role = c("aut", "cre"),
+           email = "vyom.versin@students.mq.edu.au",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Summons a whale for a customisable message.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
